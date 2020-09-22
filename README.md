@@ -1,5 +1,5 @@
 # project-1
-onl24_ds4 repo for J Patty, Jason, Julia, and Meehir
+onl24_ds4 repo for Brendan, Jason, Julia, and Meehir
 
 
 
