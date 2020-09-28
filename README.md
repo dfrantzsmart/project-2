@@ -58,29 +58,33 @@
 > 1. Daily station average across 2 month period.
 > 2. Daily station average by day of the week.
 
-<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/Top%2020%20Stations-%20pretty.png">
+<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/image%20files/Top%2020%20Stations-%20pretty.png">
 
 ​															`	Top stations by turnstile traffic`
 
-<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/METIS%20PROJECT%201%20(2).png">
+<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/image%20files/Top%2010%20out%20of%2020%20Stations-%20highres.png">
 
 ​				`Top 10 Stations that meet 'Idea Candidate' criteria marked in red `
 
 
-<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/METIS%20PROJECT%201%20(3).png">
+<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/image%20files/heat%20map%20day%20of%20week.png">
 
 ​					`Recommended stations boxed in red. Day of the week recommendations starred `
 
 ### *<span style='color:green'>**Visualizing Demographics:**</span>*
 
-<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/METIS%20PROJECT%201%20(1).png">
+<img src="https://github.com/meehirpathare/project-1/blob/master/image%20files/subway%20stations%20and%20zip%20geopandas.png">
 
-​		`Median Household Income shaded in green and our station recommendations starred in red  ` 
+​		`PYTHON: Subway station locations using Geopandas Package  ` 
+
+<img src="https://github.com/meehirpathare/project-1/blob/master/image%20files/recommended%20stations%20tableau%20pic.png">
+
+​		`TABLEAU: Median Household Income shaded in green and our station recommendations starred in red  ` 
 
 
 
 ## <span style='color:blue'>Our Recommendations: </span>
-<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/METIS%20PROJECT%201%20(4).png">
+<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/image%20files/end%20recommendations.png">
 
 - [x] <span style='color:green'>***Balance between MTA and contextual demographic data***</span>
 - [x] <span style='color:green'>***Gala target attendees are more likely live and work in certain neighborhoods***</span>
