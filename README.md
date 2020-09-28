@@ -58,31 +58,29 @@
 > 1. Daily station average across 2 month period.
 > 2. Daily station average by day of the week.
 
-![Top 20 Stations- pretty](C:\Users\Meehir\Downloads\Top 20 Stations- pretty.png)
+<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/Top%2020%20Stations-%20pretty.png">
 
 ​															`	Top stations by turnstile traffic`
 
-![METIS PROJECT 1 (2)](C:\Users\Meehir\Downloads\METIS PROJECT 1 (2).png)
+<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/METIS%20PROJECT%201%20(2).png">
 
 ​				`Top 10 Stations that meet 'Idea Candidate' criteria marked in red `
 
 
-
-![METIS PROJECT 1 (3)](C:\Users\Meehir\Downloads\METIS PROJECT 1 (3).png)
+<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/METIS%20PROJECT%201%20(3).png">
 
 ​					`Recommended stations boxed in red. Day of the week recommendations starred `
 
 ### *<span style='color:green'>**Visualizing Demographics:**</span>*
 
-![METIS PROJECT 1 (1)](C:\Users\Meehir\Downloads\METIS PROJECT 1 (1).png)
+<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/METIS%20PROJECT%201%20(1).png">
 
 ​		`Median Household Income shaded in green and our station recommendations starred in red  ` 
 
 
 
 ## <span style='color:blue'>Our Recommendations: </span>
-
-![METIS PROJECT 1 (4)](C:\Users\Meehir\Downloads\METIS PROJECT 1 (4).png)
+<img src="https://raw.githubusercontent.com/meehirpathare/project-1/master/METIS%20PROJECT%201%20(4).png">
 
 - [x] <span style='color:green'>***Balance between MTA and contextual demographic data***</span>
 - [x] <span style='color:green'>***Gala target attendees are more likely live and work in certain neighborhoods***</span>
